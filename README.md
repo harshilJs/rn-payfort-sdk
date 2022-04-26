@@ -1,3 +1,5 @@
+# This package is using @logisticinfotech/react-native-payfort-sd with latest changes required to use PayFort SDK
+
 <p align="left">
 <a href="https://www.npmjs.com/package/@logisticinfotech/react-native-payfort-sdk"><img alt="npm version" src="https://img.shields.io/badge/npm-v1.0.15-green.svg"></a>
 <a href="https://www.npmjs.com/package/@logisticinfotech/react-native-payfort-sdk"><img src="https://img.shields.io/badge/downloads-%3E1K-yellow.svg"></a>
